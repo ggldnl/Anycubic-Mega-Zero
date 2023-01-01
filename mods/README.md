@@ -4,9 +4,9 @@ Mount for a 3D Touch on the Anycubic Mega Zero. The thinnest part is the side to
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ggldnl/Anycubic-Mega-Zero/blob/master/media/bed_leveling_mount_1.jpg" width="100%">
+    <img src="https://github.com/ggldnl/Anycubic-Mega-Zero/blob/master/media/bed_leveling_mount_1.jpg" width="50%">
   </div>
   <div class="column">
-    <img src="https://github.com/ggldnl/Anycubic-Mega-Zero/blob/master/media/bed_leveling_mount_2.jpg" width="100%">
+    <img src="https://github.com/ggldnl/Anycubic-Mega-Zero/blob/master/media/bed_leveling_mount_2.jpg" width="50%">
   </div>
 </div>
